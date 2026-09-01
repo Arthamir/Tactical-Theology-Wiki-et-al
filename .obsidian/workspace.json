@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Hub - Abrahamique"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -190,13 +191,16 @@
   },
   "active": "04fc63927af0332a",
   "lastOpenFiles": [
-    "Théologie Tactique/Forces d'Intervention Mobiles/Kairos-01- SOLA FIDE.md",
-    "README.md",
-    "Théologie Tactique/Forces d'Intervention Mobiles/Eta-77 - Spheres Within Spheres.md",
+    "Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
     "Théologie Tactique/Divisions/Démonologie/Hub - Démonologie.md",
-    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
-    "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Indou.md",
+    "Théologie Tactique/Divisions/Est Asiatique/Hub - Est Asiatique.md",
     "Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
+    "Théologie Tactique/Divisions/Parareligion/Hub - Parareligion.md",
+    "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Indou.md",
+    "Théologie Tactique/Forces d'Intervention Mobiles/Kairos-01- SOLA FIDE.md",
+    "Théologie Tactique/Forces d'Intervention Mobiles/Eta-77 - Spheres Within Spheres.md",
+    "README.md",
+    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
     "Théologie Tactique/Divisions/Védique - Indou",
     "Théologie Tactique/Divisions/Parareligion",
     "Théologie Tactique/Divisions/Est Asiatique",
