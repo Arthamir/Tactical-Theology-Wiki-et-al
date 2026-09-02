@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
-                "mode": "source",
+                "file": "Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hub - Abrahamique"
+              "title": "Hub - Asie Occidentale"
             }
           }
         ]
@@ -191,16 +191,22 @@
   },
   "active": "04fc63927af0332a",
   "lastOpenFiles": [
-    "Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
-    "Théologie Tactique/Divisions/Démonologie/Hub - Démonologie.md",
-    "Théologie Tactique/Divisions/Est Asiatique/Hub - Est Asiatique.md",
-    "Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
-    "Théologie Tactique/Divisions/Parareligion/Hub - Parareligion.md",
+    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
+    "Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
+    "Pictoures/Est-asian_division.png",
     "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Indou.md",
+    "Pictoures/Abrahamic_division.png",
+    "Pictoures",
+    "Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
     "Théologie Tactique/Forces d'Intervention Mobiles/Kairos-01- SOLA FIDE.md",
     "Théologie Tactique/Forces d'Intervention Mobiles/Eta-77 - Spheres Within Spheres.md",
+    "Théologie Tactique/Divisions/Démonologie/Hub - Démonologie.md",
+    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique - Copie.html",
+    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique - Copie.md",
+    "collapsible.md",
     "README.md",
-    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
+    "Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
+    "Théologie Tactique/Divisions/Parareligion/Hub - Parareligion.md",
     "Théologie Tactique/Divisions/Védique - Indou",
     "Théologie Tactique/Divisions/Parareligion",
     "Théologie Tactique/Divisions/Est Asiatique",
@@ -208,8 +214,6 @@
     "Théologie Tactique/Divisions/Démonologie",
     "Théologie Tactique/Divisions/Animiste - Shamanique",
     "Théologie Tactique/Divisions/Abrahamique",
-    "Théologie Tactique/Divisions",
-    "Théologie Tactique/Forces d'Intervention Mobiles",
-    "Théologie Tactique"
+    "Théologie Tactique/Divisions"
   ]
 }

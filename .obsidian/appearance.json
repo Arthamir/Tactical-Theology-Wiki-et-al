@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "theme"
+  ],
+  "cssTheme": "Wasp"
+}
