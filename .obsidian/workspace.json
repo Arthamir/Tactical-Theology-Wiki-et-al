@@ -11,10 +11,14 @@
             "id": "53e86fd162cfc594",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Hub - Abrahamique"
             }
           }
         ]
@@ -175,21 +179,21 @@
   },
   "active": "53e86fd162cfc594",
   "lastOpenFiles": [
+    "Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
+    "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
+    "Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
+    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
     "Théologie Tactique/Divisions/Les divisions de la Théologie Tactique.md",
     "sortspec.md",
-    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
     "README.md",
     "Théologie Tactique/Forces d'Intervention Mobiles/Kairos-01 - SOLA FIDE.md",
     "Théologie Tactique/Forces d'Intervention Mobiles/Eta-77 - Spheres Within Spheres.md",
-    "Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
     "Sans titre.base",
-    "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
     "Pictoures/Vedic-indu_division.png",
     "Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
     "Pictoures/Est-asian_division.png",
     "Pictoures/Abrahamic_division.png",
     "Pictoures",
-    "Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
     "Théologie Tactique/Divisions/Démonologie/Hub - Démonologie.md",
     "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique - Copie.html",
     "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique - Copie.md",
