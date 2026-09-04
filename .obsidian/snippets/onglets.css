@@ -1,31 +1,49 @@
+/* Cadre extérieur SCP */
 .callout[data-callout="tactical"] {
-  background-color: #1e232d;
-  border: 4px solid #863737;
-  outline: 2px solid #863737;
-  outline-offset: -12px;
-  padding: 35px 25px;
-  text-align: center;
-  color: #e2e8f0;
-  max-width: 650px;
-  margin: 20px auto;
+  background-color: #1e232d !important;
+  border: 4px solid #863737 !important;
+  outline: 2px solid #863737 !important;
+  outline-offset: -12px !important;
+  padding: 35px 25px !important;
+  text-align: center !important;
+  color: #e2e8f0 !important;
+  max-width: 700px !important;
+  margin: 20px auto 0px  !important;
 }
 
-/* Masque l'icône et le titre par défaut du callout */
+/* Masque le titre par défaut du callout (l'icône crayon et le mot Tactical) */
 .callout[data-callout="tactical"] > .callout-title {
-  display: none;
+  display: none !important;
 }
 
-/* Style du titre personnalisé à l'intérieur */
+/* Titre principal */
 .callout[data-callout="tactical"] h2 {
-  color: #ffffff;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  margin-top: 0;
-  text-align: center;
+  color: #ffffff !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase !important;
+  margin-top: 0 !important;
+  text-align: center !important;
+  position: relative !important;
 }
 
-/* Centre l'image */
+/* Transformation de la barre grise en souligneur centré */
+.callout[data-callout="tactical"] h2::after,
+.callout[data-callout="tactical"] .cm-header-2::after {
+  content: "" !important;
+  display: block !important;
+  position: relative !important;
+  left: 50% !important;
+  right: auto !important;
+  transform: translateX(-50%) !important;
+  margin: 8px 0 0 0 !important;
+  width: 70% !important;          /* Longueur du souligneur */
+  height: 6px !important;         /* Épaisseur du souligneur */
+  background-color: #2b384e !important; /* Couleur grise d'origine */
+  border-radius: 3px !important;  /* Bords légèrement adoucis */
+}
+
+/* Centrage de l'image */
 .callout[data-callout="tactical"] img {
-  margin: 15px auto;
-  display: block;
+  margin: 20px auto !important;
+  display: block !important;
 }

@@ -8,4 +8,3 @@
 > La division - en partie due aux grandes différences dans la théologie et les traditions intrinsèques à ces dogmes - a fini par réduire son nombre d'équipes spécialisées fonctionnant avec des délimitations strictes entre leur devoir et leur spécialisation comparé aux autres divisions. En revanche, les chercheurs et leurs équipes préfèrent une approche plus holistique de ces menaces lorsqu'elles émergent, ce qui résulte en une plus grande étendue et profondeur  de compréhension permettant un plus grand nombre d'opportunités tactiques. 
 
 
-

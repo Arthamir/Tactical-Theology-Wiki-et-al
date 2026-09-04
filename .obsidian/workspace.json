@@ -65,6 +65,19 @@
               "icon": "lucide-search",
               "title": "Rechercher"
             }
+          },
+          {
+            "id": "ee5d72ee2ec24b69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
           }
         ]
       }
@@ -180,8 +193,9 @@
   "active": "53e86fd162cfc594",
   "lastOpenFiles": [
     "Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
-    "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
+    "Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
     "Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
+    "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
     "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
     "Théologie Tactique/Divisions/Les divisions de la Théologie Tactique.md",
     "sortspec.md",
@@ -190,7 +204,6 @@
     "Théologie Tactique/Forces d'Intervention Mobiles/Eta-77 - Spheres Within Spheres.md",
     "Sans titre.base",
     "Pictoures/Vedic-indu_division.png",
-    "Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
     "Pictoures/Est-asian_division.png",
     "Pictoures/Abrahamic_division.png",
     "Pictoures",
