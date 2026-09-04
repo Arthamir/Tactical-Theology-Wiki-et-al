@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test ACS.md",
+                "file": "SCP-5601.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test ACS"
+              "title": "SCP-5601"
             }
           }
         ],
@@ -205,8 +205,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "406da63ba1b6417a",
+  "active": "1668b9e9fe9e738a",
   "lastOpenFiles": [
+    "Test ACS.md",
+    "SCP-5601.md",
     "SCP/Théologie Tactique/Divisions/Parareligion/Hub - Parareligion.md",
     "SCP/Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
     "SCP/Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
@@ -232,8 +234,6 @@
     "SCP/Pictoures/Vedic-indu_division.png",
     "SCP/Pictoures/Abrahamic_division.png",
     "README.md",
-    "Test ACS.md",
-    "SCP-5601.md",
     "acs-component.js.md",
     "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
     "Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
