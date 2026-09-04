@@ -2,6 +2,8 @@
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "theme",
-    "onglets"
-  ]
+    "onglets",
+    "anomaly-class-bar-source"
+  ],
+  "theme": "obsidian"
 }

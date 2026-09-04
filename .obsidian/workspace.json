@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
+                "file": "SCP-5601.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hub - Abrahamique"
+              "title": "SCP-5601"
+            }
+          },
+          {
+            "id": "1668b9e9fe9e738a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test ACS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test ACS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +61,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -179,45 +194,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false,
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "53e86fd162cfc594",
+  "active": "406da63ba1b6417a",
   "lastOpenFiles": [
+    "SCP/Théologie Tactique/Divisions/Parareligion/Hub - Parareligion.md",
+    "SCP/Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
+    "SCP/Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
+    "SCP/Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
+    "SCP/Théologie Tactique/Divisions/Démonologie/Hub - Démonologie.md",
+    "SCP/Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
+    "SCP/Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
+    "SCP/Théologie Tactique/Forces d'Intervention Mobiles/Kairos-01 - SOLA FIDE.md",
+    "SCP/Théologie Tactique/Forces d'Intervention Mobiles/Eta-77 - Spheres Within Spheres.md",
+    "SCP/Théologie Tactique/Divisions/Parareligion",
+    "SCP/Théologie Tactique/Divisions/Les divisions de la Théologie Tactique.md",
+    "SCP/Théologie Tactique/Divisions/Védique - Indou",
+    "SCP/Théologie Tactique/Divisions/Néopaganisme",
+    "SCP/Théologie Tactique/Divisions/Est Asiatique",
+    "SCP/Théologie Tactique/Divisions/Démonologie",
+    "SCP/Théologie Tactique/Divisions/Animiste - Shamanique",
+    "SCP/Théologie Tactique/Divisions/Abrahamique",
+    "SCP/Théologie Tactique/Forces d'Intervention Mobiles",
+    "SCP/Théologie Tactique/Divisions",
+    "SCP/Théologie Tactique",
+    "SCP/README.md",
+    "SCP/Pictoures/Est-asian_division.png",
+    "SCP/Pictoures/Vedic-indu_division.png",
+    "SCP/Pictoures/Abrahamic_division.png",
+    "README.md",
+    "Test ACS.md",
+    "SCP-5601.md",
+    "acs-component.js.md",
+    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
     "Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
     "Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
     "Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
     "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
-    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
     "Théologie Tactique/Divisions/Les divisions de la Théologie Tactique.md",
     "sortspec.md",
-    "README.md",
     "Théologie Tactique/Forces d'Intervention Mobiles/Kairos-01 - SOLA FIDE.md",
     "Théologie Tactique/Forces d'Intervention Mobiles/Eta-77 - Spheres Within Spheres.md",
-    "Sans titre.base",
     "Pictoures/Vedic-indu_division.png",
     "Pictoures/Est-asian_division.png",
     "Pictoures/Abrahamic_division.png",
-    "Pictoures",
     "Théologie Tactique/Divisions/Démonologie/Hub - Démonologie.md",
-    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique - Copie.html",
-    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique - Copie.md",
-    "collapsible.md",
-    "Théologie Tactique/Divisions/Parareligion/Hub - Parareligion.md",
-    "Théologie Tactique/Divisions/Védique - Indou",
-    "Théologie Tactique/Divisions/Parareligion",
-    "Théologie Tactique/Divisions/Est Asiatique",
-    "Théologie Tactique/Divisions/Néopaganisme",
-    "Théologie Tactique/Divisions/Démonologie",
-    "Théologie Tactique/Divisions/Animiste - Shamanique",
-    "Théologie Tactique/Divisions/Abrahamique"
+    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique - Copie.md"
   ]
 }
