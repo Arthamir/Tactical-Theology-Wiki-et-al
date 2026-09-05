@@ -7,4 +7,4 @@
 > 
 > Malgré les précédents de profondes et violentes divisions au sein des différentes confessions suivant les préceptes abrahamiques, la Division se repose sur une communication efficace et la coopération des experts de toute confession et secte afin de combattre et de contenir les anomalies qui y sont associées. 
 
-
+[[SCP-5601]]
