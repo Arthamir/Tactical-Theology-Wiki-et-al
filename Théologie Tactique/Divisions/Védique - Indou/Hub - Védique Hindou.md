@@ -7,3 +7,12 @@
 > 
 > La complexité des structures théologiques ainsi que les larges pans de population de pratiquants et de mendiants ont poussé les ressources de la Division jusqu'à leur point de rupture. Toutefois, les recherches perpétuelles de cette division ont mit au jour plusieurs des techniques et des stratégies les plus fructueuses de la Théologie Tactique que le département s'emploie de les utiliser sur les menaces anormales dans le monde entier.
 
+### SCP
+
+[[Théologie Tactique/Divisions/Védique - Indou/VEI-SCP/Placeholder|Placeholder]]
+
+
+### Contes
+
+[[Théologie Tactique/Divisions/Védique - Indou/VEI-Conte/Placeholder|Placeholder]]
+

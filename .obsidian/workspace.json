@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "24783305a47c57d1",
+        "id": "b1deea4c369c2314",
         "type": "tabs",
         "children": [
           {
-            "id": "57c4298207a1416c",
+            "id": "e5a6e76dab5ea86a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -186,49 +190,52 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "406da63ba1b6417a",
+  "active": "e5a6e76dab5ea86a",
   "lastOpenFiles": [
     "Test ACS.md",
+    "Théologie Tactique/Divisions/Abrahamique/ABR-SCP/SCP-5601.md",
+    "Pictoures/acs-icons/keter-icon.svg",
+    "Pictoures/acs-icons/keneq-icon.svg",
+    "Pictoures/acs-icons/hiemal-icon.svg",
+    "Pictoures/acs-icons/galactic.jpg",
+    "Pictoures/acs-icons/explained-icon.svg",
+    "Pictoures/acs-icons/euclid-icon.svg",
+    "Pictoures/acs-icons/esoteric-icon.svg",
+    "Pictoures/acs-icons/ekhi-icon.svg",
+    "Pictoures/acs-icons/decommissioned-icon.svg",
+    "Pictoures/acs-icons/dark-icon.svg",
+    "Pictoures/acs-icons",
+    "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
+    "Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
+    "Pictoures/ACS_img/galactic.jpg.opdownload",
+    "Pictoures/ACS_img",
+    "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
+    "Pictoures/Divisions_img",
+    "Pictoures/Nouveau dossier",
+    "Théologie Tactique/Divisions/Les divisions de la Théologie Tactique.md",
+    "Théologie Tactique/Divisions/Démonologie/Hub - Démonologie.md",
+    "Théologie Tactique/Divisions/Est Asiatique/NPG-Conte/Placeholder.md",
     "Théologie Tactique/Divisions/Démonologie/DEM-Conte/Placeholder.md",
+    "Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
+    "Théologie Tactique/Divisions/Parareligion/Hub - Parareligion.md",
+    "Théologie Tactique/Divisions/Néopaganisme/NPG-Conte/Placeholder.md",
+    "Théologie Tactique/Divisions/Parareligion/PAR-Conte/Placeholder.md",
+    "Théologie Tactique/Divisions/Est Asiatique/NPG-Conte",
+    "Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
+    "Théologie Tactique/Divisions/Est Asiatique/ESA-SCP/Placeholder.md",
     "Théologie Tactique/Divisions/Démonologie/DEM-SCP/Placeholder.md",
     "Théologie Tactique/Divisions/Démonologie/DEM-Conte",
-    "Théologie Tactique/Divisions/Parareligion/PAR-Conte/Placeholder.md",
     "Théologie Tactique/Divisions/Démonologie/DEM-SCP",
     "Théologie Tactique/Divisions/Parareligion/PAR-SCP/Placeholder.md",
     "Théologie Tactique/Divisions/Parareligion/PAR-Conte",
-    "Théologie Tactique/Divisions/Néopaganisme/NPG-Conte/Placeholder.md",
     "Théologie Tactique/Divisions/Parareligion/PAR-SCP",
     "Théologie Tactique/Divisions/Néopaganisme/NPG-SCP/Placeholder.md",
-    "Théologie Tactique/Divisions/Néopaganisme/NPG-Conte",
     "Théologie Tactique/Divisions/Est Asiatique/ESA-Conte/Placeholder.md",
-    "Théologie Tactique/Divisions/Néopaganisme/NPG-SCP",
-    "Théologie Tactique/Divisions/Est Asiatique/ESA-SCP/Placeholder.md",
-    "Théologie Tactique/Divisions/Est Asiatique/ESA-Conte",
     "Théologie Tactique/Divisions/Védique - Indou/VEI-Conte/Placeholder.md",
-    "Théologie Tactique/Divisions/Est Asiatique/ESA-SCP",
     "Théologie Tactique/Divisions/Védique - Indou/VEI-SCP/Placeholder.md",
-    "Théologie Tactique/Divisions/Védique - Indou/VEI-Conte",
     "Théologie Tactique/Divisions/Animiste - Shamanique/ANI-Conte/Placeholder.md",
-    "Théologie Tactique/Divisions/Védique - Indou/VEI-SCP",
     "Théologie Tactique/Divisions/Animiste - Shamanique/ANI-Conte/Untitled.md",
     "Théologie Tactique/Divisions/Animiste - Shamanique/ANI-SCP/Placeholder.md",
-    "Théologie Tactique/Divisions/Abrahamique/ABR-Conte/Placeholder.md",
-    "Théologie Tactique/Divisions/Abrahamique/ABR-SCP/SCP-5601.md",
-    "SCP-5601.md",
-    "SCP/Théologie Tactique/Divisions/Parareligion/Hub - Parareligion.md",
-    "SCP/Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
-    "SCP/Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
-    "SCP/Théologie Tactique/Divisions/Est Asiatique/Hub - Asie Occidentale.md",
-    "SCP/Théologie Tactique/Divisions/Démonologie/Hub - Démonologie.md",
-    "SCP/Théologie Tactique/Divisions/Animiste - Shamanique/Hub - Animiste Shamanique.md",
-    "SCP/Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
-    "SCP/Théologie Tactique/Forces d'Intervention Mobiles/Kairos-01 - SOLA FIDE.md",
-    "SCP/Théologie Tactique/Forces d'Intervention Mobiles/Eta-77 - Spheres Within Spheres.md",
-    "SCP/Pictoures/Est-asian_division.png",
-    "SCP/Pictoures/Vedic-indu_division.png",
-    "SCP/Pictoures/Abrahamic_division.png",
-    "Pictoures/Vedic-indu_division.png",
-    "Pictoures/Est-asian_division.png",
-    "Pictoures/Abrahamic_division.png"
+    "Théologie Tactique/Divisions/Abrahamique/ABR-Conte/Placeholder.md"
   ]
 }
