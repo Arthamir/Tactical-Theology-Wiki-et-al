@@ -24,6 +24,32 @@
                   "ctime": 1788568148196,
                   "items": [
                     {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Abrahamique/ABR-SCP/SCP-5601.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "ABR-SCP"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1788600213970,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213970,
+                          "path": "Théologie Tactique/Divisions/Abrahamique/ABR-Conte/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "ABR-Conte"
+                    },
+                    {
                       "type": "file",
                       "ctime": 1788568148196,
                       "path": "Théologie Tactique/Divisions/Abrahamique/Hub - Abrahamique.md",
@@ -37,6 +63,32 @@
                   "type": "group",
                   "ctime": 1788568169278,
                   "items": [
+                    {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Est Asiatique/ESA-SCP/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "ESA-SCP"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Est Asiatique/ESA-Conte/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "ESA-Conte"
+                    },
                     {
                       "type": "file",
                       "ctime": 1788568180934,
@@ -52,6 +104,32 @@
                   "ctime": 1788568169278,
                   "items": [
                     {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Védique - Indou/VEI-SCP/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "VEI-SCP"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Védique - Indou/VEI-Conte/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "VEI-Conte"
+                    },
+                    {
                       "type": "file",
                       "ctime": 1788568189608,
                       "path": "Théologie Tactique/Divisions/Védique - Indou/Hub - Védique Hindou.md",
@@ -64,6 +142,32 @@
                   "type": "group",
                   "ctime": 1788568169278,
                   "items": [
+                    {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Animiste - Shamanique/ANI-SCP/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "ANI-SCP"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Animiste - Shamanique/ANI-Conte/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "ANI-Conte"
+                    },
                     {
                       "type": "file",
                       "ctime": 1788568175117,
@@ -78,6 +182,32 @@
                   "ctime": 1788568169278,
                   "items": [
                     {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Néopaganisme/NPG-SCP/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "NPG-SCP"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Néopaganisme/NPG-Conte/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "NPG-Conte"
+                    },
+                    {
                       "type": "file",
                       "ctime": 1788568183425,
                       "path": "Théologie Tactique/Divisions/Néopaganisme/Hub - Néopaganisme.md",
@@ -90,6 +220,32 @@
                   "type": "group",
                   "ctime": 1788568169278,
                   "items": [
+                    {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Parareligion/PAR-SCP/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "PAR-SCP"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Parareligion/PAR-Conte/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "PAR-Conte"
+                    },
                     {
                       "type": "file",
                       "ctime": 1788568186087,
@@ -104,6 +260,32 @@
                   "ctime": 1788568169278,
                   "items": [
                     {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Démonologie/DEM-SCP/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "DEM-SCP"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1788600213971,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1788600213971,
+                          "path": "Théologie Tactique/Divisions/Démonologie/DEM-Conte/Placeholder.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "DEM-Conte"
+                    },
+                    {
                       "type": "file",
                       "ctime": 1788568178334,
                       "path": "Théologie Tactique/Divisions/Démonologie/Hub - Démonologie.md",
@@ -113,7 +295,7 @@
                   "title": "Démonologie"
                 }
               ],
-              "title": "\\\\Divisions"
+              "title": "Divisions"
             }
           ],
           "title": "Théologie Tactique"
@@ -140,7 +322,26 @@
         {
           "type": "group",
           "ctime": 1788568154472,
-          "items": [],
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1788600213971,
+              "path": "Pictoures/Vedic-indu_division.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1788600213971,
+              "path": "Pictoures/Est-asian_division.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1788600213971,
+              "path": "Pictoures/Abrahamic_division.png",
+              "subpath": "#^-"
+            }
+          ],
           "title": "Pictoures"
         },
         {
